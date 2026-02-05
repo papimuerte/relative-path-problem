@@ -1,9 +1,0 @@
-name: relative-path-problem
-static_sites:
-- environment_slug: html
-  github:
-    branch: main
-    deploy_on_push: true
-    repo: tenuki/relative-path-problem
-  name: relative-path-problem
-  source_dir: /public
